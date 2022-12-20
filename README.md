@@ -1,5 +1,6 @@
 ![logo](Assets/logo.jpg) 
 
+- - -
 
 Learn@Home souhaite travailler avec nous sur toute la conception de son site web. 
 
@@ -9,27 +10,29 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 2/ Les user stories avec critère(s) d’acceptation pour chacune des fonctionnalités, partagées dans un format standard (PDF, DOCX, XLSX).
 
-3/ Les maquettes du site avec un design simple et au moins une maquette par page (Figma ou Sketch) et  expliquer la navigation entre les pages pendant le meeting.
+3/ Les maquettes du site avec un design simple et au moins une maquette par page (Figma ou Sketch) et  expliquer la navigation entre les pages pendant le meeting.  
 
 4/ Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement.
 
-------------------------------
+- - -
 
 ### Document : 
 https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf
 
+#### Kanban (esquisse): 
+https://www.notion.so/Dev4U-projet-Learn-Home-972828849f7947289c23756d323a6335
 
 ### Home ( Organisation Application )
 
-
+- - -
 #### 5 Pages : 
-* Connexion
-* Tableau de bord
-* Interface de Chat
-* Calendrier
-* Gestion des tâches
+* Connexion [User_stories](User_stories/US_connexion.pdf) 
+* Tableau de bord  [User_stories](User_stories/US_dashboard.pdf) 
+* Gestion des tâches [User_stories](User_stories/US_gestion_des_tâches.pdf)
+* Calendrier [User_stories](User_stories/US_calendrier.pdf)
+* Interface de Tchat [User_stories](User_stories/US_tchat.pdf)
 
-----------------------------
+- - -
 
 Liens : 
 * projet Github Dev4U
@@ -37,7 +40,9 @@ Liens :
 * User Stories
 
 ### Livrables  attendus
-Un document PDF contenant les diagrammes de cas d’usage.
-Un document PDF contenant les user stories avec critère(s) d’acceptation.
-Un document PDF contenant les maquettes du site.
-Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
+- Un document PDF contenant les diagrammes de cas d’usage.
+- Un document PDF contenant les user stories avec critère(s) d’acceptation.
+- Un document PDF contenant les maquettes du site.
+- Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
+
+- - -
