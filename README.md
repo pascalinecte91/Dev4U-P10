@@ -17,31 +17,34 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 - - -
 
 ### Document : 
-https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf
+[note de réunion cliquez](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
 
-#### Kanban (esquisse): 
-https://www.notion.so/Dev4U-projet-Learn-Home-972828849f7947289c23756d323a6335
+#### Kanban : 
 
-### Home ( Organisation Application )
+[kanban cliquez](https://www.notion.so/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d) 
+- - -
+###  Organisation Application - Schema 
+
+ ![Schema](Documents/organisation.jpg) 
 
 - - -
 #### 5 Pages : 
-* Connexion [User_stories](User_stories/US_connexion.pdf) 
-* Tableau de bord  [User_stories](User_stories/US_dashboard.pdf) 
-* Gestion des tâches [User_stories](User_stories/US_gestion_des_tâches.pdf)
-* Calendrier [User_stories](User_stories/US_calendrier.pdf)
-* Interface de Tchat [User_stories](User_stories/US_tchat.pdf)
+* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [User_case](Documents/Use_cases/Use_case_connexion.jpg)
+* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [User_case](Documents/Use_cases/Use_case_dashboard.jpg)
+* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [User_case_student](Documents/Use_cases/Use_case_task_student.jpg) --- [User_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
+* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [User_case](Documents/Use_cases/Use_case_calendar.jpg)
+* Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/Use_case_chat.jpg)
 
 - - -
 
 Liens : 
-* projet Github Dev4U
-* Maquette Figma Lear@Home
-* User Stories
+* projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
+* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/KLzunXLhTLjXEQo0AtZ08p/Maquette-Dev4U?node-id=1%3A3&t=MwqU49YymqsugQ90-0)
+
 
 ### Livrables  attendus
 - Un document PDF contenant les diagrammes de cas d’usage.
-- Un document PDF contenant les user stories avec critère(s) d’acceptation.
+- Un document PDF contenant les user stories avec critère(s)d’acceptation.
 - Un document PDF contenant les maquettes du site.
 - Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
 
