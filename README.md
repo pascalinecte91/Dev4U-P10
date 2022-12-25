@@ -17,11 +17,11 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 - - -
 
 ### Document : 
-[note de réunion cliquez](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
+[note de réunion cliquez](https://www.notion.so/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
 
 #### Kanban : 
 
-[kanban cliquez](https://www.notion.so/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d) 
+[kanban cliquez](https://ritzy-foe-8e3.notion.site/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
 - - -
 ###  Organisation Application - Schema 
 
@@ -39,7 +39,7 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 Liens : 
 * projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
-* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/KLzunXLhTLjXEQo0AtZ08p/Maquette-Dev4U?node-id=1%3A3&t=MwqU49YymqsugQ90-0)
+* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=0%3A1&t=SnitsW5II70lOa2g-1)
 
 
 ### Livrables  attendus
