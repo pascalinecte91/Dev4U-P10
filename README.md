@@ -39,8 +39,9 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 Liens : 
 * projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
-* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=0%3A1&t=SnitsW5II70lOa2g-1)
+* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=568%3A2102&t=ocE2RiZqhjAAJLXs-1)
 
+* Flow  [apparence du Site](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=11%3A24&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A24&show-proto-sidebar=1)
 
 ### Livrables  attendus
 - Un document PDF contenant les diagrammes de cas d’usage.
@@ -48,4 +49,3 @@ Liens :
 - Un document PDF contenant les maquettes du site.
 - Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
 
-- - -
