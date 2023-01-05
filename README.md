@@ -20,7 +20,6 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 [note de réunion cliquez](https://www.notion.so/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
 
 #### Kanban : 
-
 [kanban cliquez](https://ritzy-foe-8e3.notion.site/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
 - - -
 ###  Organisation Application - Schema 
@@ -29,19 +28,19 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 - - -
 #### 5 Pages : 
-* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [User_case](Documents/Use_cases/Use_case_connexion.jpg)
-* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [User_case](Documents/Use_cases/Use_case_dashboard.jpg)
-* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [User_case_student](Documents/Use_cases/Use_case_task_student.jpg) --- [User_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
-* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [User_case](Documents/Use_cases/Use_case_calendar.jpg)
+* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [Use_case](Documents/Use_cases/Use_case_connexion.jpg)
+* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [Use_case](Documents/Use_cases/Use_case_dashboard.jpg)
+* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/Use_case_task_student.jpg) --- [Use_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
+* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [Use_case](Documents/Use_cases/Use_case_calendar.jpg)
 * Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/Use_case_chat.jpg)
 
 - - -
 
 Liens : 
 * projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
-* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=568%3A2102&t=ocE2RiZqhjAAJLXs-1)
+* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=401%3A416&t=GKnMqQctYLEXtPEw-1)
 
-* Flow  [apparence du Site](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=11%3A24&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A24&show-proto-sidebar=1)
+
 
 ### Livrables  attendus
 - Un document PDF contenant les diagrammes de cas d’usage.
