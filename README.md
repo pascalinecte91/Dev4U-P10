@@ -21,6 +21,7 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 #### Kanban : 
 [kanban cliquez](https://ritzy-foe-8e3.notion.site/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
+
 - - -
 ###  Organisation Application - Schema 
 
@@ -38,8 +39,21 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 Liens : 
 * projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
-* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=401%3A416&t=GKnMqQctYLEXtPEw-1)
+* Maquette Figma Lear@Home [Maquettes cliquez](https://www.figma.com/file/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=1041%3A1289&t=TfruPaG6P0MS7OMr-1)
 
+Liens Prototypes :
+ Desktop 
+- [Connexion / Inscription](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=414%3A518&show-proto-sidebar=1)
+- [Dashboard](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=793%3A1304&show-proto-sidebar=1)
+- [Calendrier](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=376%3A2152&show-proto-sidebar=1)
+- [Tâches](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=897%3A2851&show-proto-sidebar=1)
+- [Msg / Chat](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=594%3A578&show-proto-sidebar=1)
+- [Single Chat](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1166&scaling=scale-down&starting-point-node-id=803%3A1291&show-proto-sidebar=1)
+
+Liens Prototypes :
+ Mobile : 
+ - [Connexion / Inscription](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1165&scaling=scale-down&starting-point-node-id=705%3A1450&show-proto-sidebar=1) 
+ - [Dashboard](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1165&scaling=scale-down&starting-point-node-id=859%3A1580&show-proto-sidebar=1)
 
 
 ### Livrables  attendus
