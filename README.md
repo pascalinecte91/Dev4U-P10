@@ -29,11 +29,11 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 - - -
 #### 5 Pages : 
-* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [Use_case](Documents/Use_cases/Use_case_connexion.jpg)
-* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [Use_case](Documents/Use_cases/Use_case_dashboard.jpg)
-* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/Use_case_task_student.jpg) --- [Use_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
-* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [Use_case](Documents/Use_cases/Use_case_calendar.jpg)
-* Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/Use_case_chat.jpg)
+* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [Use_cases](Documents/use_cases/use_case_connexion.pdf)
+* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [Use_case](Documents/Use_cases/use_case_dashboard.pdf)
+* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/use_case_task_student.jpg) --- [Use_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
+* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [Use_case](Documents/Use_cases/use_case_calendrier.pdf)
+* Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/use_case_chat.pdf)
 
 - - -
 
@@ -54,7 +54,10 @@ Liens Prototypes :
  Mobile : 
  - [Connexion / Inscription](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1165&scaling=scale-down&starting-point-node-id=705%3A1450&show-proto-sidebar=1) 
  - [Dashboard](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn-Home?node-id=721%3A1165&scaling=scale-down&starting-point-node-id=859%3A1580&show-proto-sidebar=1)
-
+ - [Task](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=858%3A1448&scaling=scale-down&page-id=721%3A1165&starting-point-node-id=858%3A1448&show-proto-sidebar=1)
+ - [Chat](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=803%3A2385&scaling=scale-down&page-id=721%3A1165&starting-point-node-id=803%3A2385&show-proto-sidebar=1)
+ - [Calendar](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=893%3A943&scaling=scale-down&page-id=721%3A1165&starting-point-node-id=893%3A943&show-proto-sidebar=1)
+ - [Contact list](https://www.figma.com/proto/HrTpZIebX5NhfsZX8EtjGG/Learn%40Home?node-id=803%3A10048&scaling=scale-down&page-id=721%3A1165&starting-point-node-id=803%3A10048&show-proto-sidebar=1)
 
 ### Livrables  attendus
 - Un document PDF contenant les diagrammes de cas d’usage.
@@ -62,3 +65,6 @@ Liens Prototypes :
 - Un document PDF contenant les maquettes du site.
 - Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
 
+---
+* Tous les Use Cases [all_use_cases](Documents/all_use_cases.pdf)
+* Toutes les User stories [all_user_stories](Documents/all_user_stories.pdf)
