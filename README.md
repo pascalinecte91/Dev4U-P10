@@ -31,7 +31,7 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 #### 5 Pages : 
 * Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [Use_cases](Documents/use_cases/use_case_connexion.pdf)
 * Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [Use_case](Documents/Use_cases/use_case_dashboard.pdf)
-* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/use_case_task_student.jpg) --- [Use_case_tutor](Documents/Use_cases/Use_case_task_tutor.jpg)
+* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/use_case_task_student.pdf) --- [Use_case_tutor](Documents/Use_cases/use_case_task_tutor.pdf)
 * Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [Use_case](Documents/Use_cases/use_case_calendrier.pdf)
 * Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/use_case_chat.pdf)
 
