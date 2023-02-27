@@ -22,20 +22,18 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 #### Kanban : 
 [kanban cliquez](https://ritzy-foe-8e3.notion.site/Dev4U-projet-Learn-Home-d3382616521a48b582085b21c31c368d)
 
+[kanban tableau detail](https://www.notion.so/Learn-Home-detaill-tableau-3a2da5b9d4254d2094b386b09579a9fa?pvs=4)
+
 - - -
 ###  Organisation Application - Schema 
 
  ![Schema](Documents/organisation.jpg) 
 
 - - -
-#### 5 Pages : 
-* Connexion -  son [User_stories](Documents/User_stories/us_connexion.pdf) - son [Use_cases](Documents/use_cases/use_case_connexion.pdf)
-* Tableau de bord - son [User_stories](Documents/User_stories/us_dashboard.pdf) - son [Use_case](Documents/Use_cases/use_case_dashboard.pdf)
-* Gestion des tâches - son [User_stories](Documents/User_stories/us_task.pdf) - son [Use_case_student](Documents/Use_cases/use_case_task_student.pdf) --- [Use_case_tutor](Documents/Use_cases/use_case_task_tutor.pdf)
-* Calendrier - son [User_stories](Documents/User_stories/us_calendar.pdf) - son [Use_case](Documents/Use_cases/use_case_calendrier.pdf)
-* Interface de chat - son [User_stories](Documents/User_stories/us_chat.pdf) - son [User_case](Documents/Use_cases/use_case_chat.pdf)
 
-- - -
+* Tous les Use Cases [all_use_cases](Documents/all_use_cases.pdf)
+* Toutes les User stories [all_user_stories](Documents/all_user_stories.pdf)
+
 
 Liens : 
 * projet Github Dev4U  [Mon projet P10 Learn@Home](https://github.com/pascalinecte91/Dev4U-P10)
@@ -65,6 +63,3 @@ Liens Prototypes :
 - Un document PDF contenant les maquettes du site.
 - Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
 
----
-* Tous les Use Cases [all_use_cases](Documents/all_use_cases.pdf)
-* Toutes les User stories [all_user_stories](Documents/all_user_stories.pdf)
